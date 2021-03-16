@@ -45,7 +45,7 @@
         },
         "subnet0_addressRange": {
             "type": "string",
-            "defaultValue": "10.0.0.0/22"
+            "defaultValue": "10.0.0.0/24"
         },
         "ddosProtectionPlanEnabled": {
             "type": "bool",
