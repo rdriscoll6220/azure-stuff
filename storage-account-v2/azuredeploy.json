@@ -41,7 +41,7 @@
             "type": "bool",
             "defaultValue": true
         }
-    },
+    },  
     "variables": {},
     "resources": [
         {
